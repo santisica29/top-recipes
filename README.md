@@ -1,3 +1,3 @@
 # 1st Project: Recipes
 
-Meant to showcase my html beginner' skill.
+Meant to showcase my html beginner'ss skill.
